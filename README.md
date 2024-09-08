@@ -9,4 +9,4 @@ Welcome to the **Blog App** repository! This application is built using the **ME
 - **Update Blog**: Edit and update your blogs as your content evolves.
 
 ### Screenshots
-![ss11](C:\Users\bhava\Pictures\Screenshots\ss1.png)
+![ss1](C:\Users\bhava\Pictures\Screenshots\ss1.png)
