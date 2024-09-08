@@ -9,4 +9,7 @@ Welcome to the **Blog App** repository! This application is built using the **ME
 - **Update Blog**: Edit and update your blogs as your content evolves.
 
 ### Screenshots
-![ss1](C:\Users\bhava\Pictures\Screenshots\ss1.png)
+![ss1](https://github.com/priyak510/mern-blogging-app/blob/main/ss1.png?raw=true)
+![ss2](https://github.com/priyak510/mern-blogging-app/blob/main/ss2.png?raw=true)
+![ss3](https://github.com/priyak510/mern-blogging-app/blob/main/ss3.png?raw=true)
+
