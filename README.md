@@ -1,5 +1,5 @@
 # mern-blogging-app
-Welcome to the Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share blogs.
+Welcome to the #Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share blogs.
 
 Features
 Authentication: Secure user authentication system to protect your blogs.
